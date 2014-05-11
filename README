@@ -1,0 +1,6 @@
+This is your new Play application
+=====================================
+
+This file will be packaged with your application, when using `play dist`.
+
+app/views/index.scala.html calls app/views/main.scala.html which displays the HTML layout.
